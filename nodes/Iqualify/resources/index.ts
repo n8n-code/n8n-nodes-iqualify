@@ -1,0 +1,16 @@
+export { apiInfoDescription } from './api-info';
+export { courseMappingsDescription } from './course-mappings';
+export { coursesDescription } from './courses';
+export { courseMetadataDescription } from './course-metadata';
+export { offeringsDescription } from './offerings';
+export { assessmentManagementDescription } from './assessment-management';
+export { assessmentDataDescription } from './assessment-data';
+export { channelsDescription } from './channels';
+export { learnerActivityDescription } from './learner-activity';
+export { pulsesDescription } from './pulses';
+export { badgesDescription } from './badges';
+export { assessmentGroupsDescription } from './assessment-groups';
+export { offeringMetadataDescription } from './offering-metadata';
+export { offeringLearnersDescription } from './offering-learners';
+export { organisationDescription } from './organisation';
+export { usersInIQualifyDescription } from './users-in-i-qualify';
